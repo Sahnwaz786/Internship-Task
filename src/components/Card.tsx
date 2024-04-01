@@ -71,6 +71,7 @@ const MediaCard: React.FC = () => {
             </div>
           </div>
         </Card>
+
           <Card>
           <div
             className={`${
@@ -79,7 +80,7 @@ const MediaCard: React.FC = () => {
           >
             <CardMedia
               sx={{ height: 400 }}
-              image="../public/images/blue shirt.jpeg"
+              image="https://s3-alpha-sig.figma.com/img/a24a/d1e0/76e2b366b2456bbd169b0c3c9525252c?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TK4llJT2pgcu3ilu6zcGbJNMPy6WZ2BCQ3HuVKG51H1q7sxA7SeuaVkAvOX6VIvYUE2Ojd8xIg0-fOZA1fMbGaNc2FnbVB3Ns3k1Zr4WFToAe1QvcU8UpVmc-Hl2lvznD07nJjYwjW9k5CJhDOnvQOXpqXcOKyrwbTU8BF2am3kQ51jM9Wl74B9OpgcTDMLJZBJxbcd8SE4Uy5vWcJAfgXMbz~jU8xojWH6omeDS37Hdb1moRma8i0SvodDH5fjTRgwuGL7gFwCD7~83Sfu6i2FQIrkKpMo6hRwsC-BEHL1XzJc~EAYnxuCSsf~9WlUkH~jNtemUeuTd4lDQsYTFYA__"
               title="green iguana"
             />
             <CardContent>
@@ -118,6 +119,7 @@ const MediaCard: React.FC = () => {
             </div>
           </div>
         </Card>
+
         <Card>
           <div
             className={`${
@@ -126,7 +128,7 @@ const MediaCard: React.FC = () => {
           >
             <CardMedia
               sx={{ height: 400 }}
-              image="../public/images/helmate boy.jpeg"
+              image="https://s3-alpha-sig.figma.com/img/b290/2f7a/b2fcf21c696811f745109da24a740d73?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aOIL0vbL-m9iT5zk9QgIMAuvKeb743mI79NOZ~ml1KEP~5ktJekjebnlUp7PiGpZqtcwxLdfAvTLnIph0yxbxyo-vmObi3f8KCiIqKqbJkdTzrv8KaYp8~ftNfuIyohzBck2tHl0WaPSeh1uFvI~9edGXYdE6oiGv8tB1qM7hWcahtigUHRLEs0QA5HsQbSgw9e~fmORNmgRU1fD3fC8vlKMm-hHSUOE6zaL15rcTYR5uFgIt~HDJk2wippN6nlRelBTireM66ciiK1nsNx~jP8W8UFom6sdt-RwQvPKSPVdcENCEY2X7Zj2DOJHW7yLu6nLlN3xgctknE0yAy0HjA__"
               title="green iguana"
             />
             <CardContent>
@@ -173,7 +175,7 @@ const MediaCard: React.FC = () => {
           >
             <CardMedia
               sx={{ height: 400 }}
-              image="../public/images/blue shirt.jpeg"
+              image="https://s3-alpha-sig.figma.com/img/a24a/d1e0/76e2b366b2456bbd169b0c3c9525252c?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TK4llJT2pgcu3ilu6zcGbJNMPy6WZ2BCQ3HuVKG51H1q7sxA7SeuaVkAvOX6VIvYUE2Ojd8xIg0-fOZA1fMbGaNc2FnbVB3Ns3k1Zr4WFToAe1QvcU8UpVmc-Hl2lvznD07nJjYwjW9k5CJhDOnvQOXpqXcOKyrwbTU8BF2am3kQ51jM9Wl74B9OpgcTDMLJZBJxbcd8SE4Uy5vWcJAfgXMbz~jU8xojWH6omeDS37Hdb1moRma8i0SvodDH5fjTRgwuGL7gFwCD7~83Sfu6i2FQIrkKpMo6hRwsC-BEHL1XzJc~EAYnxuCSsf~9WlUkH~jNtemUeuTd4lDQsYTFYA__"
               title="green iguana"
             />
             <CardContent>
@@ -212,6 +214,7 @@ const MediaCard: React.FC = () => {
             </div>
           </div>
         </Card>
+
         <Card>
           <div
             className={`${
@@ -220,7 +223,7 @@ const MediaCard: React.FC = () => {
           >
             <CardMedia
               sx={{ height: 263 }}
-              image="../public/images/Dicks.jpeg"
+              image="https://s3-alpha-sig.figma.com/img/c724/731e/f71497e0e3af85c77fa47046bb1f23cb?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hcDBsK4weZt8Xn5qj6nW8PTyWjQF1Ymo3AzKkf3fCp6fQb7wmw~4sv-jZgjj2REupfgw5yS-SwfYk3A4t0wrVY1tVvRCH7F4OzJ5wQ83JakPCLZPqzn6Ynqmue2ZJZDvWgdj1CrL866iG-pQEEe1XhvAxxI3UJHKlaf73ywWPaE-x8h1u1KVKYrv8FQrWpykUFhPezF~CbfHlogCgsbE3V5xX1CIefiL~TlA3Xen2NReAER6Vcu59wxu3JDwvdgTxHZcDF02o9B4tBOCcoD~XwQa~pdiYueAL9IDyTG4Nt~U4fyuD75ahnDhmZMr2syPwmukRa-XkKhA87TRNz5~tQ__"
               title="green iguana"
             />
             <CardContent>
