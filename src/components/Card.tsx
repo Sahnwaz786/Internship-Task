@@ -218,7 +218,7 @@ const MediaCard: React.FC = () => {
           >
             <CardMedia
               sx={{ height: 263 }}
-              image="https://s3-alpha-sig.figma.com/img/c724/731e/f71497e0e3af85c77fa47046bb1f23cb?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ME0JQVe21xR~EAZyQR30C2LsuJ9ZbHratF26Okpyzn6CDQ49MaxPfOMkUuQzMlc7wQSknwCfpHpz3MIf3JIe5KIyiyXqFoaye6lhdaJHbDBgNUPlHetDFDUVxZdvxvknVBjIqY9sjq77hsEy-6swkT2ewezmlCjWL2~nFHS-k7W18G-nm7U3hHc6s3q0jSQVeyl7CwNmOYdCMT0VNtQ3Z3WyLB2XKttniutJ2l-uyDkJNK6NCC5nYn001RxfZBQj0V5~FSPipdzNNQFRhCv5qBaLEEh6fHymXmgmZKpoO~1Lm-7OsgU8uvEdE6iuqKE2aszdCGNX230k-JRO1KZ2NQ__"
+              image="https://wallpaperaccess.com/full/5255765.jpg"
               title="green iguana"
             />
             <CardContent>
