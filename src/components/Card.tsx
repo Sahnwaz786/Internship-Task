@@ -28,7 +28,9 @@ const MediaCard: React.FC = () => {
           >
             <CardMedia
               sx={{ height: 400 }}
-              image="../public/images/red shirt.jpeg"
+            //   image="../public/images/red shirt.jpeg"
+            image="https://s3-alpha-sig.figma.com/img/ceed/8067/dc33760174d3f67737f6e318d0f118ff?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R2IDtoTWwq630UlH0sKNg~PU50LNXExnhu5Lby1e1aLdOkwydkRY~HXB-V6cSPffJGRhDXSNxxlK-fhzp6oCJw4AMxMfrGYV7h4Ab12AafygPq3SNS7OE3WojSpsi6bD5ExlN-8qRgly1WcKMHSBoEw3u3FniJkrJ0w2ImgmjNYHWah-pXfm~a9T48AtxmKebamaJpr2xn36RUYW78500AjVkEPB6zySkuRUXbT3H98tztlw6dsNDkPqQlf15BAyQy9kSllufmh3lJ1feLC8QlXTwq4hqY~A9xr4tQBa3bN7Dy1OVBs-yFpo3a-qV2hwLo72kDN2Wsbn5ZDyANVrIQ__"
+            
               title="green iguana"
             />
            
